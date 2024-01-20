@@ -1,0 +1,9 @@
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\sriram\source\repos\DoctorsAppointmentSystemAPI\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb
